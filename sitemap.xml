@@ -6,7 +6,6 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
   <loc>https://ioecmcomc.github.io/</loc>
   <lastmod>2022-07-22T05:59:19+00:00</lastmod>
@@ -22,6 +21,14 @@
   <lastmod>2022-07-22T05:56:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
+<url>
+      <loc>https://ioecmcomc.github.io/vietnamese-it-glossary/</loc>
+      <lastmod>2025-02-22T17:26:33+00:00</lastmod>
+      <priority>0.80</priority>
+</url>
+<url>
+      <loc>https://ioecmcomc.github.io/vietnamese-programming-languages/</loc>
+      <priority>0.80</priority>
+</url>
 
 </urlset>
